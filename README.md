@@ -1,2 +1,0 @@
-# Ranzers
-The discord Bot 
